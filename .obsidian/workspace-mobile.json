@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "eecda17cdad0f70b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f993e186d2aa401d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6aa5772c833de5bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_.body-chemical.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfbe118f841868c8",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee185f6cfcc178c3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "6fb39095dc320a73",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "db0de48be203adfd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b0036f385349421e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "60f5cf735f51a8e6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b2a2aa300c88f79b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "_.body-chemical.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5ce97b556750918c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "_.body-chemical.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fdf85d7d3a167dd7",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "_.body-chemical.md"
+          }
+        }
+      },
+      {
+        "id": "187b0dc2b41a3caf",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "37cf1aa83a9cc99f",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      },
+      {
+        "id": "568b3fdd1eb560e0",
+        "type": "leaf",
+        "state": {
+          "type": "BC-ducks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "6aa5772c833de5bb",
+  "lastOpenFiles": [
+    "New note from mobile.md",
+    "_.body-chemical.md",
+    "_.body-chemical.dopamine.md",
+    "Dopamine.md",
+    "_.next-sprint-goal.md"
+  ]
+}
